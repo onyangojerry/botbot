@@ -1,6 +1,6 @@
 School Website Question-Answering Bot
 
-(Word - useful for current studemts interested in knowing anythong about professors, classes, activities and general school fair, fast and safe. Useful to prospective student and parents with accurate information straight from the school website).
+(Word - useful for current studemts interested in knowing anything about professors, classes, activities and general school fair, fast and safe. Useful to prospective student and parents with accurate information straight from the school website).
 
 
 Overview
